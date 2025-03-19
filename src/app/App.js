@@ -1,11 +1,11 @@
 import './App.css';
-import { Outlet } from 'react-router';
+import Navigate from './Navigate/Navigate';
 
 function App() {
   return (
     <div className="App">
+      <Navigate/>
       hello
-      <Outlet/>
     </div>
   );
 }
