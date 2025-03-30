@@ -3,10 +3,13 @@ import Navigate from './Navigate/Navigate';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Navigate/>
-      hello
-    </div>
+        <div className="App">
+          hello
+        </div>
+    </>
+
   );
 }
 

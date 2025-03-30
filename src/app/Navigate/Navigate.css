@@ -1,5 +1,19 @@
-nav {
-    align-items: center;
-    justify-content: center;
-    color: white;
+.nav-bar {
+    display: flex;
+}
+
+.nav-ul {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-ul li a {
+    color: blue;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+.nav-ul li a.active {
+    color: black;
 }

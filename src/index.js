@@ -2,9 +2,9 @@ import React, { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './app/App';
-import About from './app/routes/About';
-import Projects from './app/routes/Projects';
-import Learning from './app/routes/Learning';
+import About from './app/routes/About/About';
+import Projects from './app/routes/Projects/Projects';
+import Learning from './app/routes/Learning/Learning';
 import { BrowserRouter, Routes, Route } from 'react-router';
 import reportWebVitals from './reportWebVitals';
 

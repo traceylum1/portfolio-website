@@ -1,4 +1,5 @@
-import Navigate from '../Navigate/Navigate';
+
+import Navigate from '../../Navigate/Navigate';
 
 function Projects() {
   return (
