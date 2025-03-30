@@ -1,12 +1,16 @@
+import './About.css';
 import Navigate from '../../Navigate/Navigate';
 
 
 function About() {
   return (
-    <div className="About">
-        <Navigate/>
+    <>
+      <Navigate/>
+      <div className="About">
         this is about
-    </div>
+      </div>
+    </>
+
   );
 }
 

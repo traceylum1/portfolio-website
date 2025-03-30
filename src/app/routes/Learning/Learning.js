@@ -1,12 +1,15 @@
-
+import './Learning.css';
 import Navigate from '../../Navigate/Navigate';
 
 function Learning() {
   return (
-    <div className="Learning">
-        <Navigate/>
+    <>
+      <Navigate/>
+      <div className="Learning">
         this is learning
-    </div>
+      </div>
+    </>
+
   );
 }
 
