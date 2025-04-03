@@ -1,10 +1,10 @@
 import './Projects.css';
-import Navigate from '../../Navigate/Navigate';
+import Header from '../../components/header';
 
 function Projects() {
   return (
     <>
-      <Navigate/>
+      <Header/>
       <div className="Projects">
         this is Projects
       </div>

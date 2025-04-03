@@ -26,6 +26,7 @@ function Navigate() {
           </NavLink>
         </li>
       </ul>
+      <hr/>
     </nav>
   );
 }

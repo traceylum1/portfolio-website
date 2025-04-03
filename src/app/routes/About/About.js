@@ -1,11 +1,11 @@
 import './About.css';
-import Navigate from '../../Navigate/Navigate';
+import Header from '../../components/header';
 
 
 function About() {
   return (
     <>
-      <Navigate/>
+      <Header/>
       <div className="About">
         this is about
       </div>

@@ -1,10 +1,10 @@
 import './Learning.css';
-import Navigate from '../../Navigate/Navigate';
+import Header from '../../components/header';
 
 function Learning() {
   return (
     <>
-      <Navigate/>
+      <Header/>
       <div className="Learning">
         this is learning
       </div>
