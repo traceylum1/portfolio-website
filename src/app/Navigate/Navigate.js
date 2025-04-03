@@ -11,11 +11,6 @@ function Navigate() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/about">
-            about
-          </NavLink>
-        </li>
-        <li>
           <NavLink to="/projects">
             projects
           </NavLink>
@@ -23,6 +18,11 @@ function Navigate() {
         <li>
           <NavLink to="/learning">
             learning
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/about">
+            about
           </NavLink>
         </li>
       </ul>

@@ -6,11 +6,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:rgb(252, 247, 237);
-  max-width: 900px;
+  background-color:rgb(255, 252, 247);
+  max-width: 700px;
+  font-weight: 550;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+  font-size: 24px;
+
+}
+
+h2 {
+  font-size: 18px;
+}
+
+article {
+  padding: 5px 25px;
+}
+
+section {
+  padding: 0 10px;
+}
+
+p {
+  line-height: 23px;
+}
+
+i {
+  font-weight: 600;
 }

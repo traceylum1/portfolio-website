@@ -6,7 +6,11 @@ function Projects() {
     <>
       <Header/>
       <div className="Projects">
-        this is Projects
+        <article>
+          <p>
+            <a href='https://dev.discoball.fm/'>discoball.fm</a> - <i>"never listen to an old song."</i>
+          </p>
+        </article>
       </div>
     </>
 
