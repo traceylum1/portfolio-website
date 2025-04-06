@@ -1,5 +1,5 @@
 import './Learning.css';
-import Header from '../../components/header';
+import Header from '../../components/Header';
 
 function Learning() {
   return (
@@ -13,7 +13,7 @@ function Learning() {
             I started my CS learning journey after I came back from living and working abroad in Taiwan for 6 years. I worked as an English teacher, which I enjoyed, but knew it wasn't my passion.
           </p>
           <p>
-            I decided that I wanted to challenge myself and pursue career goals that would push me beyond what I had originally thought possible for myself. Being a person who was always more involved in extra-curriculars and athletics rather than education, my studies have taken a backseat for most of my life. 
+            I decided that I wanted to challenge myself and pursue career goals that would push me beyond what I had ever done. Being a person who was always more involved in extra-curriculars and athletics rather than education, my studies have taken a backseat for most of my life. 
           </p>
           <p>
             I participated in the education system enough to pass exams and get by with decent grades, but never truly understood what it meant to <i>learn</i> something.

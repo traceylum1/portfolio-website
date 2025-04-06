@@ -1,5 +1,5 @@
 import './About.css';
-import Header from '../../components/header';
+import Header from '../../components/Header';
 
 
 function About() {
@@ -9,7 +9,7 @@ function About() {
       <div className="About">
         <article>
           <p>
-            An aspiring software engineer. Learning to learn deeply and appreciate the finer details.
+            Born and raised in the East Bay. An aspiring software engineer. Learning to learn deeply and appreciate the finer details.
           </p>
         </article>
         <article>
